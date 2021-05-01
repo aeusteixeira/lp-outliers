@@ -283,7 +283,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Mobile Navigation */
 .mobile-nav-toggle {
-  position: fixed;
+  position: absolute;
   right: 15px;
   top: 15px;
   z-index: 9998;
@@ -385,7 +385,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
+  color: #373637c2;
 }
 
 /*--------------------------------------------------------------
